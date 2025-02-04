@@ -184,6 +184,63 @@
             "required": false,
             "value": false,
             "selected": false
+        },
+        {
+            "id": "title",
+            "type": "static",
+            "format": "title",
+            "label": "Title",
+            "value": null,
+            "variant": "h1",
+            "icon": "sicon-format-text"
+        },
+        {
+            "id": "color",
+            "type": "string",
+            "format": "color",
+            "inputType": "color",
+            "label": "Color",
+            "description": null,
+            "labelHTML": null,
+            "icon": "sicon-format-fill",
+            "value": "#f6f4f8",
+            "required": false
+        },
+        {
+            "id": "color_1",
+            "type": "string",
+            "format": "color",
+            "inputType": "color",
+            "label": "Color 1",
+            "description": null,
+            "labelHTML": null,
+            "icon": "sicon-format-fill",
+            "value": "#a49ab8",
+            "required": false
+        },
+        {
+            "id": "color_2",
+            "type": "string",
+            "format": "color",
+            "inputType": "color",
+            "label": "Color 2",
+            "description": null,
+            "labelHTML": null,
+            "icon": "sicon-format-fill",
+            "value": "#fe99c0",
+            "required": false
+        },
+        {
+            "id": "color_3",
+            "type": "string",
+            "format": "color",
+            "inputType": "color",
+            "label": "Color 3",
+            "description": null,
+            "labelHTML": null,
+            "icon": "sicon-format-fill",
+            "value": "#48358f",
+            "required": false
         }
     ],
     "components": [
